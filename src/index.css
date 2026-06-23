@@ -20,3 +20,24 @@ body{
   min-height:1500px;
   background:#edf7fb;
 }
+.top-section{
+  height:320px;
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+}
+
+.arch-section{
+  width:420px;
+  height:260px;
+  background:#ffffff;
+  border-radius:220px 220px 0 0;
+  display:flex;
+  justify-content:center;
+  align-items:flex-end;
+}
+
+.takbeer{
+  margin-bottom:40px;
+  font-size:42px;
+}
